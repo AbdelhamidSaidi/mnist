@@ -256,4 +256,3 @@ If you would like, I can:
 
 ---
 
-README generated to explain the notebook and code in detail. If you want me to include inline code excerpts from the notebook or show exact cell numbers/line references, tell me which format you prefer.
